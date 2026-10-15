@@ -1,0 +1,7 @@
+Credits:
+Vanilla Tweaks: https://vanillatweaks.net/
+Statue repair, masks and adaptation: TQNL
+Faithful 64x: https://faithfulpack.net/
+Official source assets and contributors: see source-provenance.json
+Faithful License: https://faithfulpack.net/license/
+Faithful copper texture artists: HARYA_

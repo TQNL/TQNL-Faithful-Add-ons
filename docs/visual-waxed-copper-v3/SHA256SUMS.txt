@@ -1,0 +1,2 @@
+528afc4c0ba81dd0d4ce0658f66818fa32a3d492437ae060db66c4b85491550f  VisualWaxedCopperItems-32x-mc-1.21.9-to-26.3.zip
+abe9cffde9e2a5a96088cb528df3f3feb38d6676ac1e677e2dad226e3f56fcd1  VisualWaxedCopperItems-64x-mc-1.21.9-to-26.3.zip

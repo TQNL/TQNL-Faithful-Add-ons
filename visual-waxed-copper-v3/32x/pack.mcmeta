@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "description": "Visual Waxed Copper (Items) - Faithful 32x\nMinecraft 1.21.9 - 26.3 | TQNL | Vanilla Tweaks | Faithful",
+    "min_format": [
+      69,
+      0
+    ],
+    "max_format": [
+      97,
+      1
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "copper_26_1",
+        "min_format": [
+          84,
+          0
+        ],
+        "max_format": [
+          97,
+          1
+        ]
+      }
+    ]
+  }
+}
