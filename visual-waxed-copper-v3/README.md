@@ -1,6 +1,6 @@
 # VisualWaxedCopperItems V3
 
-Copper-only resource pack sources for Minecraft **1.21.9–26.3**:
+Copper-only resource pack sources for Minecraft **1.17–26.3**:
 
 - [32x](32x/), for Faithful 32x.
 - [64x](64x/), for Faithful 64x.

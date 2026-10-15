@@ -11676,5 +11676,12 @@
         "method": "Author names were independently compared against dated official API metadata for every selected family; names agree. Recorded compact contribution IDs/date references are from 26.3 only. No pixel-to-contribution-identity verification is claimed."
       }
     }
-  ]
+  ],
+  "legacy_compatibility": {
+    "method": "Reuse the pinned original Faithful artwork through version-appropriate item models and overlays.",
+    "modern_artifact": "VisualWaxedCopperItems-32x-mc-1.21.9-to-26.3.zip",
+    "modern_artifact_sha256": "528afc4c0ba81dd0d4ce0658f66818fa32a3d492437ae060db66c4b85491550f",
+    "modern_resource_bytes_unchanged": true,
+    "native_item_inventory": "source/minecraft/legacy-client-manifest.json"
+  }
 }

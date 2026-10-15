@@ -1,19 +1,88 @@
 {
   "pack": {
-    "description": "Visual Waxed Copper (Items) - Faithful 64x\nMinecraft 1.21.9 - 26.3 | TQNL | Vanilla Tweaks | Faithful",
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 7,
+      "max_inclusive": 97
+    },
     "min_format": [
-      69,
+      7,
       0
     ],
     "max_format": [
       97,
       1
-    ]
+    ],
+    "description": "Visual Waxed Copper Items V3 - Faithful 64x | 1.17-26.3"
   },
   "overlays": {
     "entries": [
       {
+        "directory": "copper_1_20_3",
+        "formats": {
+          "min_inclusive": 22,
+          "max_inclusive": 97
+        },
+        "min_format": [
+          22,
+          0
+        ],
+        "max_format": [
+          97,
+          1
+        ]
+      },
+      {
+        "directory": "copper_1_21_4",
+        "formats": {
+          "min_inclusive": 46,
+          "max_inclusive": 97
+        },
+        "min_format": [
+          46,
+          0
+        ],
+        "max_format": [
+          97,
+          1
+        ]
+      },
+      {
+        "directory": "copper_1_21_6",
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 97
+        },
+        "min_format": [
+          63,
+          0
+        ],
+        "max_format": [
+          97,
+          1
+        ]
+      },
+      {
+        "directory": "copper_1_21_9",
+        "formats": {
+          "min_inclusive": 69,
+          "max_inclusive": 97
+        },
+        "min_format": [
+          69,
+          0
+        ],
+        "max_format": [
+          97,
+          1
+        ]
+      },
+      {
         "directory": "copper_1_21_11",
+        "formats": {
+          "min_inclusive": 75,
+          "max_inclusive": 97
+        },
         "min_format": [
           75,
           0
@@ -25,6 +94,10 @@
       },
       {
         "directory": "copper_26_1",
+        "formats": {
+          "min_inclusive": 84,
+          "max_inclusive": 97
+        },
         "min_format": [
           84,
           0
@@ -36,6 +109,10 @@
       },
       {
         "directory": "copper_26_2",
+        "formats": {
+          "min_inclusive": 88,
+          "max_inclusive": 97
+        },
         "min_format": [
           88,
           0

@@ -1,10 +1,10 @@
-Adds a gold wax border to copper items in the inventory.
+Adds a gold wax border to waxed copper items in the inventory.
 
-32x and 64x versions for Minecraft 1.21.9-26.3. Use one version above the matching Faithful pack.
+32x and 64x versions for Minecraft **1.17–26.3**, with one combined ZIP per resolution. Use one above the matching Faithful pack. Later copper items appear only on versions that contain them.
 
-Copper golem statues now keep their selected inventory pose and use the correct waxed textures, with the right orientation and position in either hand and on shelves. This also fixes their model conflicts with 3D Items, and the wax outline now continues around the antenna pole.
+Copper golem statues keep their selected inventory pose and use the correct waxed textures, orientation and position in either hand and on shelves, including compatibility with 3D Items. Wax borders are rebuilt from original Faithful textures, with continuous chain, lantern and bar outlines and complete borders on lightning rods, chest latches and statue faces.
 
-Wax borders are rebuilt from original Faithful textures, with consistent chain, lantern and bar outlines and complete borders on lightning rods and statue model faces.
+The base pack and overlays cover the older item models and the newer item-definition formats. The full format range is declared, with legacy format marker 15; Minecraft 1.17–1.19.4 shows a version warning when enabling the legacy assets. [Compatibility and test scope](https://github.com/TQNL/TQNL-Faithful-Add-ons/blob/main/docs/visual-waxed-copper-v3/compatibility.md).
 
 ### Credits
 
